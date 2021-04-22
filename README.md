@@ -26,3 +26,11 @@ Se dividió el trabajo para cada integrante de la siguiente manera:
 
 ### Norman Harvey
 - Movimiento y animación del personaje
+
+## Controles
+
+### Movimiento
+- Teclas WASD para moverse adelante, atrás, izquierda y derecha
+
+### Control de cámara
+- Tecla E para cambiar los modos de cámara
